@@ -1,0 +1,28 @@
+{
+  "name": "segundou",
+  "version": "1.0.1",
+  "description": "A semana ta só começando",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:riccihenrique/segundou.git"
+  },
+  "keywords": [
+    "segundou"
+  ],
+  "author": "ricciHenrique",
+  "license": "MIT",
+  "bin": {
+    "comecoufds": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/riccihenrique/segundou/issues"
+  },
+  "homepage": "https://github.com/riccihenrique/segundou/blob/master/README.md",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
