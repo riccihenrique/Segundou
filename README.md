@@ -10,20 +10,20 @@
 ## Installing
 Install globally:
 
-    npm install -g daledale-backend
+    npm install -g segundou
 
 ## Running
 Run command:
 
-    daledalebackend
+    segundou
 
 Or import in NodeJS script:
 
-    import daledalebackend from 'daledalebackend';
+    import segundou from 'segundou';
 
-    daledalebackend();
+    segundou();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx daledale-backend
+    npx segundou
